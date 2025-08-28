@@ -1,8 +1,6 @@
-This is a simple User Managemet=nt System API build with Node.js,Express.js and MongoDb with simple CRUD functionality.Users Create accounts, Update their account information and Delete their accounts
+This is a simple User Management System API built with Node.js,Express.js and MongoDB with simple CRUD functionality. Users can Create accounts, update their account information and Delete their accounts.
 
-Folder Structure -
- 
--client :
+Folder Structure -:
          |-controllers
          |-middleware
          |-models
